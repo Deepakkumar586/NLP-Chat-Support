@@ -137,10 +137,3 @@ Sample data includes Android and iOS devices from various brands.
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the ISC License.
-
-## Support
-
-For questions or issues, please open an issue on GitHub.
